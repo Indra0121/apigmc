@@ -67,3 +67,14 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+li{
+  color:pink;
+  text-decoration: wavy;
+  font-style: italic;
+  list-style-type: none;
+}
+h1{
+  font-size: 100px;
+  color: blue;
+  font-style: oblique;
+}
